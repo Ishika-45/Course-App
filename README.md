@@ -27,6 +27,8 @@ Before running the app, you need to install the necessary dependencies. Ensure y
 
 sh
 npm install
+npm install react-router-dom
+npm install firebase
 
 
 This command reads the package.json file and installs all the dependencies listed under dependencies and devDependencies.

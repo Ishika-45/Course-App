@@ -1,0 +1,22 @@
+.course-details {
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    font-size: 20px;
+  }
+  .course-details h1{
+    color: #ddd;
+  }
+  .course-thumbnail {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+  }
+  
+  .course-syllabus ul {
+    list-style: none;
+    padding: 0;
+  }
+  .course-details h3{
+    color: #ddd;
+  }

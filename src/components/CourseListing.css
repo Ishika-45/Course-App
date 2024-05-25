@@ -1,0 +1,38 @@
+.course-listing {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .course-list {
+    list-style: none;
+    padding: 0;
+  }
+  .course-list a{
+    text-decoration: none;
+  }
+  .course-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: left;
+  }
+  
+  .course-thumbnail {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    border-radius: 16px;
+  }
+  
+  .course-info h2 {
+    font-size: 24px;
+    color:#ddd;
+  }
+  
+  .course-info p {
+    margin: 5px 0;
+    color: black;
+  }

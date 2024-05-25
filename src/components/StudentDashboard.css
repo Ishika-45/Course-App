@@ -1,0 +1,46 @@
+.student-dashboard {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .enrolled-course-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .enrolled-course-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: left;
+    border-radius: 10px;
+  }
+  
+  .course-thumbnail {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+  }
+  
+  .course-info h2 {
+    margin: 0;
+    font-size: 24px;
+    color:#ddd
+  }
+  
+  .course-info p {
+    margin: 5px 0;
+  }
+  .task{
+    padding: 5px;
+    font-size: 15px;
+    border:none;
+    background:transparent;
+    cursor:pointer;
+    color: aquamarine;
+    border-radius: 2rem;
+    box-shadow: 3px 10px 8px rgba(0,0,0,0.4);
+  }
